@@ -1,0 +1,3 @@
+F:\Non-Steam Games\Unreal\Somber\Source\Somber\Somber.Build.cs
+F:\Non-Steam Games\Unreal\Somber\Source\Somber.Target.cs
+F:\Non-Steam Games\Unreal\Somber\Source\SomberEditor.Target.cs

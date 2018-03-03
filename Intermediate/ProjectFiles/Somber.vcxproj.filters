@@ -1,0 +1,55 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+<Project ToolsVersion="14.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+	<ItemGroup>
+		<None Include="..\..\Somber.uproject" />
+		<Filter Include="Source">
+			<UniqueIdentifier>{9134970E-B886-4476-80BE-FEC7DF91306D}</UniqueIdentifier>
+		</Filter>
+		<None Include="..\..\Source\Somber.Target.cs">
+			<Filter>Source</Filter>
+		</None >
+		<None Include="..\..\Source\SomberEditor.Target.cs">
+			<Filter>Source</Filter>
+		</None >
+		<Filter Include="Config">
+			<UniqueIdentifier>{8A17A420-D843-4EF7-AECD-2E351CF6B898}</UniqueIdentifier>
+		</Filter>
+		<None Include="..\..\Config\DefaultEditor.ini">
+			<Filter>Config</Filter>
+		</None >
+		<None Include="..\..\Config\DefaultEngine.ini">
+			<Filter>Config</Filter>
+		</None >
+		<None Include="..\..\Config\DefaultGame.ini">
+			<Filter>Config</Filter>
+		</None >
+		<None Include="..\..\Config\DefaultInput.ini">
+			<Filter>Config</Filter>
+		</None >
+		<Filter Include="Source\Somber">
+			<UniqueIdentifier>{3AFDBA11-9752-4DEA-AF01-473CB0601717}</UniqueIdentifier>
+		</Filter>
+		<None Include="..\..\Source\Somber\Somber.Build.cs">
+			<Filter>Source\Somber</Filter>
+		</None >
+		<ClCompile Include="..\..\Source\Somber\Somber.cpp">
+			<Filter>Source\Somber</Filter>
+		</ClCompile >
+		<ClInclude Include="..\..\Source\Somber\Somber.h">
+			<Filter>Source\Somber</Filter>
+		</ClInclude >
+		<Filter Include="Source\Somber\Private">
+			<UniqueIdentifier>{4DE4D030-2C1A-4556-B5FF-2A690FEA4354}</UniqueIdentifier>
+		</Filter>
+		<ClCompile Include="..\..\Source\Somber\Private\WispJar.cpp">
+			<Filter>Source\Somber\Private</Filter>
+		</ClCompile >
+		<Filter Include="Source\Somber\Public">
+			<UniqueIdentifier>{8913DD65-369E-4685-849F-DCA1C42C837B}</UniqueIdentifier>
+		</Filter>
+		<ClInclude Include="..\..\Source\Somber\Public\WispJar.h">
+			<Filter>Source\Somber\Public</Filter>
+		</ClInclude >
+	</ItemGroup>
+</Project>
